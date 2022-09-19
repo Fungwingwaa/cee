@@ -1,5 +1,0 @@
-
-User-agent:*
-Disallow:
-
-Sitemap: https://docs-8gur0pyw555cb7bf-1309377812.tcloudbaseapp.com/sitemap.xml
