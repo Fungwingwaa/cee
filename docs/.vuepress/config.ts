@@ -9,7 +9,7 @@ export default defineUserConfig({
 
   description: "",
 
-  base: "/",
+  base: "/cee/",
 
   plugins: [
     searchPlugin({
