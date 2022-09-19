@@ -4,7 +4,7 @@ import sidebar from "./sidebar";
 
 export default hopeTheme({
 
-  hostname: "https://docs-8gur0pyw555cb7bf-1309377812.tcloudbaseapp.com/",
+  hostname: "https://github.com/Fungwingwaa/cee/",
 
   iconAssets: "iconfont",
 
