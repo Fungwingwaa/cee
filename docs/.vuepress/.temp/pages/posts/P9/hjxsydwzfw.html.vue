@@ -1,0 +1,181 @@
+<template><div><h2 align="center" id="最高人民法院-最高人民检察院关于办理环境污染刑事案件适用法律若干问题的解释-法释〔2016〕29号" tabindex="-1"><a class="header-anchor" href="#最高人民法院-最高人民检察院关于办理环境污染刑事案件适用法律若干问题的解释-法释〔2016〕29号" aria-hidden="true">#</a> 最高人民法院 最高人民检察院关于办理环境污染刑事案件适用法律若干问题的解释（法释〔2016〕29号）</h2>
+<p>&emsp;&emsp;<b>第十五条</b>&emsp;下列物质应当认定为刑法第三百三十八条规定的“有毒物质”：<br>
+&emsp;&emsp;（一）危险废物，是指列入国家危险废物名录，或者根据国家规定的危险废物鉴别标准和鉴别方法认定的，具有危险特性的废物；<br>
+&emsp;&emsp;（二）《关于持久性有机污染物的斯德哥尔摩公约》附件所列物质；<br>
+&emsp;&emsp;（三）含重金属的污染物；<br>
+&emsp;&emsp;（四）其他具有毒性，可能污染环境的物质。</p>
+<hr>
+<h2 align="center" id="最高人民法院-最高人民检察院公安部-司法部-生态环境部印发《关于办理环境污染刑事案件有关问题座谈会纪要》的通知" tabindex="-1"><a class="header-anchor" href="#最高人民法院-最高人民检察院公安部-司法部-生态环境部印发《关于办理环境污染刑事案件有关问题座谈会纪要》的通知" aria-hidden="true">#</a> 最高人民法院 最高人民检察院公安部 司法部 生态环境部印发《关于办理环境污染刑事案件有关问题座谈会纪要》的通知</h2>
+<p>&emsp;&emsp;<b>9.关于有害物质的认定</b><br>
+&emsp;&emsp;会议针对如何准确认定刑法第三百三十八条规定的“其他有害物质”的问题进行了讨论。会议认为，办理非法排放、倾倒、处置其他有害物质的案件，应当坚持主客观相一致原则，从行为人的主观恶性、污染行为恶劣程度、有害物质危险性毒害性等方面进行综合分析判断，准确认定其行为的社会危害性。实践中，常见的有害物质主要有：工业危险废物以外的其他工业固体废物；未经处理的生活垃圾；有害大气污染物、受控消耗臭氧层物质和有害水污染物；在利用和处置过程中必然产生有毒有害物质的其他物质；国务院生态环境保护主管部门会同国务院卫生主管部门公布的有毒有害污染物名录中的有关物质等。</p>
+<hr>
+<p>&emsp;&emsp;<b>1.危险废物</b><br>
+&emsp;&emsp;危险废物，是指列入国家危险废物名录，或者根据国家规定的危险废物鉴别标准和鉴别方法认定的，具有危险特性的废物。<br>
+&emsp;&emsp;<b>2.持久性有机污染物</b><br>
+&emsp;&emsp;持久性有机污染物(Persistent Organic Pollutants，简称POPs)，是指具有高毒性，在环境中难以降解，可生物积累，能通过空气、水和迁徙物种进行长距离越境迁移并沉积到远离其排放地点的地区，并能够在陆地生态系统和水域生态系统中积累，对环境和生物体造成负面影响的天然或人工合成的有机物。[1]<br>
+&emsp;&emsp;目前，《关于持久性有机污染物的斯德哥尔摩公约》除了第一批12种POPs物质外，2009年、2011年、2013年和2015年又分四批新增了14种受控POPs。26种受控POPs物质分别为：艾氏剂、狄氏剂、异狄氏剂、DDT、六氯苯、氯丹、灭蚁灵、毒杀芬、七氯、多氯联苯（PCBs）、多氯联苯并-对-二噁英（PCDDs）、多氯联苯并呋喃（PCDFs）、林丹、α-六氯环己烷（HCH）、β-六氯环己烷、商用五溴联苯醚、商用六溴二苯、开蓬、商用八溴二苯醚、全氟辛基磺酸及其盐类和全氟辛基磺酰氟、五氯苯、硫丹、六溴环十二烷（HBCD）、六氯丁二烯、五氯苯酚及其盐和酯、多氯化萘。<br>
+&emsp;&emsp;<b>3.含重金属的污染物</b><br>
+&emsp;&emsp;《2016年环境污染犯罪解释》第一条第（三）项和第（四）项涉及到的重金属共14种，即铅、汞、镉、铬、砷、铊、锑和镍、铜、锌、银、钒、锰、钴。2011年2月，国务院正式批复的《重金属污染综合防治“十二五”规划》确定的重点防控的重金属污染物是铅（Pb）、汞（Hg）、镉（Cd）、铬（Cr）和类金属砷（As）等，兼顾镍（Ni）、铜（Cu）、锌（Zn）、银（Ag）、钒（V）、锰（Mn）、钴（Co）、铊（Tl）、锑（Sb）等其他重金属污染物。<br>
+&emsp;&emsp;<b>4.其他具有毒性，可能污染环境的物质</b><br>
+&emsp;&emsp;鉴于实践中“有毒物质”的表现形式繁多，可能无法为《解释》第十五条第（一）至（三）项所涵括，第（四）项专门规定“其他具有毒性，可能污染环境的物质”兜底项。适用中需要注意的是，“有毒物质”是“有害物质”中具有毒性的物质，其属性不仅仅在于对环境的危害，更在于其本身的毒性。因此，实践中要注意有毒物质的典型特征，避免将其他有害物质纳入到有毒物质的范围。[2]</p>
+<hr>
+<h2 align="center" id="有毒有害水污染物名录-第一批" tabindex="-1"><a class="header-anchor" href="#有毒有害水污染物名录-第一批" aria-hidden="true">#</a> 有毒有害水污染物名录（第一批）</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">序号</th>
+<th style="text-align:center">  污染物名称  </th>
+<th style="text-align:center"> CAS号 </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">1</td>
+<td style="text-align:center">二氯甲烷</td>
+<td style="text-align:center">75-09-2</td>
+</tr>
+<tr>
+<td style="text-align:center">2</td>
+<td style="text-align:center">三氯甲烷</td>
+<td style="text-align:center">67-66-3</td>
+</tr>
+<tr>
+<td style="text-align:center">3</td>
+<td style="text-align:center">三氯乙烯</td>
+<td style="text-align:center">79-01-6</td>
+</tr>
+<tr>
+<td style="text-align:center">4</td>
+<td style="text-align:center">四氯乙烯</td>
+<td style="text-align:center">127-18-4</td>
+</tr>
+<tr>
+<td style="text-align:center">5</td>
+<td style="text-align:center">甲醛</td>
+<td style="text-align:center">50-00-0</td>
+</tr>
+<tr>
+<td style="text-align:center">6</td>
+<td style="text-align:center">镉及镉化合物</td>
+<td style="text-align:center">—</td>
+</tr>
+<tr>
+<td style="text-align:center">7</td>
+<td style="text-align:center">汞及汞化合物</td>
+<td style="text-align:center">—</td>
+</tr>
+<tr>
+<td style="text-align:center">8</td>
+<td style="text-align:center">六价铬化合物</td>
+<td style="text-align:center">—</td>
+</tr>
+<tr>
+<td style="text-align:center">9</td>
+<td style="text-align:center">铅及铅化合物</td>
+<td style="text-align:center">—</td>
+</tr>
+<tr>
+<td style="text-align:center">10</td>
+<td style="text-align:center">砷及砷化合物</td>
+<td style="text-align:center">—</td>
+</tr>
+</tbody>
+</table>
+<div class="custom-container info"><p class="custom-container-title">注：</p>
+<p>CAS号（CAS Registry Number），即美国化学文摘社（Chemical Abstracts Service，缩写为CAS）登记号，是美国化学文摘社为每一种出现在文献中的化学物质分配的唯一编号。</p>
+</div>
+<hr>
+<h2 align="center" id="有毒有害大气污染物名录-2018年" tabindex="-1"><a class="header-anchor" href="#有毒有害大气污染物名录-2018年" aria-hidden="true">#</a> 有毒有害大气污染物名录（2018年）</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align:center"> 序号  </th>
+<th style="text-align:center">     污染物     </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">1</td>
+<td style="text-align:center">二氯甲烷</td>
+</tr>
+<tr>
+<td style="text-align:center">2</td>
+<td style="text-align:center">甲醛</td>
+</tr>
+<tr>
+<td style="text-align:center">3</td>
+<td style="text-align:center">三氯甲烷</td>
+</tr>
+<tr>
+<td style="text-align:center">4</td>
+<td style="text-align:center">三氯乙烯</td>
+</tr>
+<tr>
+<td style="text-align:center">5</td>
+<td style="text-align:center">四氯乙烯</td>
+</tr>
+<tr>
+<td style="text-align:center">6</td>
+<td style="text-align:center">乙醛</td>
+</tr>
+<tr>
+<td style="text-align:center">7</td>
+<td style="text-align:center">镉及其化合物</td>
+</tr>
+<tr>
+<td style="text-align:center">8</td>
+<td style="text-align:center">铬及其化合物</td>
+</tr>
+<tr>
+<td style="text-align:center">9</td>
+<td style="text-align:center">汞及其化合物</td>
+</tr>
+<tr>
+<td style="text-align:center">10</td>
+<td style="text-align:center">铅及其化合物</td>
+</tr>
+<tr>
+<td style="text-align:center">11</td>
+<td style="text-align:center">砷及其化合物</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 align="center" id="关于禁止生产、流通、使用和进出口林丹等持久性有机污染物的公告-公告-2019年-第10号" tabindex="-1"><a class="header-anchor" href="#关于禁止生产、流通、使用和进出口林丹等持久性有机污染物的公告-公告-2019年-第10号" aria-hidden="true">#</a> 关于禁止生产、流通、使用和进出口林丹等持久性有机污染物的公告（公告 2019年 第10号）</h2>
+<p>&emsp;&emsp;为落实《关于持久性有机污染物的斯德哥尔摩公约》履约要求，现就林丹、硫丹、全氟辛基磺酸及其盐类和全氟辛基磺酰氟管理的有关事项公告如下。<br>
+&emsp;&emsp;一、自2019年3月26日起，禁止林丹和硫丹的生产、流通、使用和进出口。<br>
+&emsp;&emsp;二、自2019年3月26日起，禁止全氟辛基磺酸及其盐类和全氟辛基磺酰氟除可接受用途（见附件）外的生产、流通、使用和进出口。<br>
+&emsp;&emsp;三、各级生态环境、发展改革、工业和信息化、农业农村、商务、卫生健康、应急管理、海关、市场监管等部门，应按照国家有关法律法规的规定，加强对上述持久性有机污染物生产、流通、使用和进出口的监督管理。一旦发现违反公告的行为，严肃查处。<br>
+&emsp;&emsp;附件：全氟辛基磺酸及其盐类和全氟辛基磺酰氟可接受用途</p>
+<div style="text-align: right"><p>生态环境部<br>
+外交部<br>
+发展改革委<br>
+科技部<br>
+工业和信息化部<br>
+农业农村部<br>
+商务部<br>
+卫生健康委<br>
+应急部<br>
+海关总署<br>
+市场监管总局<br>
+2019年3月4日</p>
+</div>
+<hr>
+<p>  附件</p>
+<h2 align="center" id="全氟辛基磺酸及其盐类和全氟辛基磺酰氟可接受用途" tabindex="-1"><a class="header-anchor" href="#全氟辛基磺酸及其盐类和全氟辛基磺酰氟可接受用途" aria-hidden="true">#</a> 全氟辛基磺酸及其盐类和全氟辛基磺酰氟可接受用途</h2>
+<p>&emsp;&emsp;依据《关于持久性有机污染物的斯德哥尔摩公约》，全氟辛基磺酸及其盐类和全氟辛基磺酰氟的可接受用途是用于下列用途的生产和使用：<br>
+&emsp;&emsp;一、照片成像；<br>
+&emsp;&emsp;二、半导体器件的光阻剂和防反射涂层；<br>
+&emsp;&emsp;三、化合物半导体和陶瓷滤芯的刻蚀剂；<br>
+&emsp;&emsp;四、航空液压油；<br>
+&emsp;&emsp;五、只用于闭环系统的金属电镀（硬金属电镀）；<br>
+&emsp;&emsp;六、某些医疗设备（如乙烯四氟乙烯共聚物（ETFE）层和无线电屏蔽ETFE的生产，体外诊断医疗设备和CCD滤色仪）；<br>
+&emsp;&emsp;七、灭火泡沫。</p>
+<hr>
+<p>[1]环境保护部科技标准司、中国环境科学学会主编：《持久性有机污染物（POPs）防治知识问答》，中国环境出版社，2016年版，第2页。
+[2] 主要参考胡云腾主编：《最高人民法院 最高人民检察院环境污染刑事司法解释理解与适用》，人民法院出版社，2014年版，第87页。</p>
+<hr>
+<div class="custom-container warning"><p class="custom-container-title">原文链接</p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=MzAwODUxMjY0OQ==&amp;mid=2650758026&amp;idx=1&amp;sn=a5006ba66acca3059f2185400fe05b56&amp;chksm=83664e6cb411c77a91caf0ee260a0dd2f0bead09cd486281ac543493cade95aaabe36b650976&amp;mpshare=1&amp;scene=1&amp;srcid=0304HTZBvKngBVpXA0iRK3pZ&amp;sharer_sharetime=1614856827470&amp;sharer_shareid=89f685dde9a972b6d5bea40fdd86155b&amp;version=4.0.0.6007&amp;platform=win#rd" target="_blank" rel="noopener noreferrer">公众号“VOCs前沿”：《汇总｜关于环境污染刑事案件中“有毒物质”的范围》<ExternalLinkIcon/></a></p>
+</div>
+</div></template>

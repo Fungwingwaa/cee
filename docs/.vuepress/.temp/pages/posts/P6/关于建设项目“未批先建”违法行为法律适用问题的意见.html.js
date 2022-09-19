@@ -1,0 +1,14 @@
+export const data = JSON.parse("{\"key\":\"v-7fdbe8ee\",\"path\":\"/posts/P6/%E5%85%B3%E4%BA%8E%E5%BB%BA%E8%AE%BE%E9%A1%B9%E7%9B%AE%E2%80%9C%E6%9C%AA%E6%89%B9%E5%85%88%E5%BB%BA%E2%80%9D%E8%BF%9D%E6%B3%95%E8%A1%8C%E4%B8%BA%E6%B3%95%E5%BE%8B%E9%80%82%E7%94%A8%E9%97%AE%E9%A2%98%E7%9A%84%E6%84%8F%E8%A7%81.html\",\"title\":\"关于建设项目“未批先建”违法行为法律适用问题的意见\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"关于建设项目“未批先建”违法行为法律适用问题的意见\",\"shortTitle\":\"未批先建执法解释\",\"icon\":\"article\",\"date\":\"2018-02-22T00:00:00.000Z\",\"author\":\"原环境保护部\",\"category\":[\"法律解释\"],\"tag\":[\"行政\"],\"summary\":\"&emsp;&emsp;新环境保护法和新环境影响评价法施行以来，关于建设单位未依法报批建设项目环境影响报告书、报告表，或者未依照环境影响评价法第二十四条的规定重新报批或者报请重新审核环境影响报告书、报告表，擅自开工建设（以下简称“未批先建”）违法行为的行政处罚，在法律适用、追溯期限以及后续办理环境影响评价手续等方面，实践中存在不同争议。经研究，现就有关法律法\",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://localhost:8080/posts/P6/%E5%85%B3%E4%BA%8E%E5%BB%BA%E8%AE%BE%E9%A1%B9%E7%9B%AE%E2%80%9C%E6%9C%AA%E6%89%B9%E5%85%88%E5%BB%BA%E2%80%9D%E8%BF%9D%E6%B3%95%E8%A1%8C%E4%B8%BA%E6%B3%95%E5%BE%8B%E9%80%82%E7%94%A8%E9%97%AE%E9%A2%98%E7%9A%84%E6%84%8F%E8%A7%81.html\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"生态环境法律法规汇编\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"关于建设项目“未批先建”违法行为法律适用问题的意见\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-CN\"}],[\"meta\",{\"property\":\"article:author\",\"content\":\"原环境保护部\"}],[\"meta\",{\"property\":\"article:tag\",\"content\":\"行政\"}],[\"meta\",{\"property\":\"article:published_time\",\"content\":\"2018-02-22T00:00:00.000Z\"}]]},\"excerpt\":\"\",\"headers\":[{\"level\":2,\"title\":\"一、关于“未批先建”违法行为行政处罚的法律适用\",\"slug\":\"一、关于-未批先建-违法行为行政处罚的法律适用\",\"children\":[{\"level\":3,\"title\":\"（一）相关法律规定\",\"slug\":\"一-相关法律规定\",\"children\":[]},{\"level\":3,\"title\":\"（二）法律适用\",\"slug\":\"二-法律适用\",\"children\":[]}]},{\"level\":2,\"title\":\"二、关于“未批先建”违法行为的行政处罚追溯期限\",\"slug\":\"二、关于-未批先建-违法行为的行政处罚追溯期限\",\"children\":[{\"level\":3,\"title\":\"（一）相关法律规定\",\"slug\":\"一-相关法律规定-1\",\"children\":[]},{\"level\":3,\"title\":\"（二）追溯期限的起算时间\",\"slug\":\"二-追溯期限的起算时间\",\"children\":[]},{\"level\":3,\"title\":\"（三）违反环保设施“三同时”验收制度的行政处罚\",\"slug\":\"三-违反环保设施-三同时-验收制度的行政处罚\",\"children\":[]},{\"level\":3,\"title\":\"（四）其他违法行为的行政处罚\",\"slug\":\"四-其他违法行为的行政处罚\",\"children\":[]}]},{\"level\":2,\"title\":\"三、关于建设单位可否主动补交环境影响报告书、报告表报送审批\",\"slug\":\"三、关于建设单位可否主动补交环境影响报告书、报告表报送审批\",\"children\":[]}],\"readingTime\":{\"minutes\":9.24,\"words\":2771},\"filePathRelative\":\"posts/P6/关于建设项目“未批先建”违法行为法律适用问题的意见.md\",\"localizedDate\":\"2018年2月22日\"}")
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}

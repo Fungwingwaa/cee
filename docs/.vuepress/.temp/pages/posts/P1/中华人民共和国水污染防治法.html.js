@@ -1,0 +1,14 @@
+export const data = JSON.parse("{\"key\":\"v-fc32e2b4\",\"path\":\"/posts/P1/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E6%B0%B4%E6%B1%A1%E6%9F%93%E9%98%B2%E6%B2%BB%E6%B3%95.html\",\"title\":\"水污染防治法\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"水污染防治法\",\"date\":\"2018-01-01T00:00:00.000Z\",\"author\":\"全国人民代表大会常务委员会\",\"category\":[\"法律\"],\"tag\":[\"普通法\"],\"summary\":\"中华人民共和国水污染防治法{align=\\\"center\\\"} （1984年5月11日第六届全国人民代表大会常务委员会第五次会议通过&emsp;根据1996年5月15日第八届全国人民代表大会常务委员会第十九次会议《关于修改&lt;中华人民共和国水污染防治法&gt;的决定》第一次修正&emsp;2008年2月28日第十届全国人民代表大会常务委员会第三十二次会议修订\",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://vuepress-theme-hope-v2-demo.mrhope.site/posts/P1/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E6%B0%B4%E6%B1%A1%E6%9F%93%E9%98%B2%E6%B2%BB%E6%B3%95.html\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"生态环境法律法规汇编\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"水污染防治法\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-CN\"}],[\"meta\",{\"property\":\"article:author\",\"content\":\"全国人民代表大会常务委员会\"}],[\"meta\",{\"property\":\"article:tag\",\"content\":\"普通法\"}],[\"meta\",{\"property\":\"article:published_time\",\"content\":\"2018-01-01T00:00:00.000Z\"}]]},\"excerpt\":\"\",\"headers\":[{\"level\":2,\"title\":\"中华人民共和国水污染防治法\",\"slug\":\"中华人民共和国水污染防治法\",\"children\":[]},{\"level\":2,\"title\":\"第一章 总则\",\"slug\":\"第一章-总则\",\"children\":[]},{\"level\":2,\"title\":\"第二章 水污染防治的标准和规划\",\"slug\":\"第二章-水污染防治的标准和规划\",\"children\":[]},{\"level\":2,\"title\":\"第三章 水污染防治的监督管理\",\"slug\":\"第三章-水污染防治的监督管理\",\"children\":[]},{\"level\":2,\"title\":\"第四章 水污染防治措施\",\"slug\":\"第四章-水污染防治措施\",\"children\":[{\"level\":3,\"title\":\"第一节 一般规定\",\"slug\":\"第一节-一般规定\",\"children\":[]},{\"level\":3,\"title\":\"第二节 工业水污染防治\",\"slug\":\"第二节-工业水污染防治\",\"children\":[]},{\"level\":3,\"title\":\"第三节 城镇水污染防治\",\"slug\":\"第三节-城镇水污染防治\",\"children\":[]},{\"level\":3,\"title\":\"第四节 农业和农村水污染防治\",\"slug\":\"第四节-农业和农村水污染防治\",\"children\":[]},{\"level\":3,\"title\":\"第五节 船舶水污染防治\",\"slug\":\"第五节-船舶水污染防治\",\"children\":[]}]},{\"level\":2,\"title\":\"第五章 饮用水水源和其他特殊水体保护\",\"slug\":\"第五章-饮用水水源和其他特殊水体保护\",\"children\":[]},{\"level\":2,\"title\":\"第六章 水污染事故处置\",\"slug\":\"第六章-水污染事故处置\",\"children\":[]},{\"level\":2,\"title\":\"第七章 法律责任\",\"slug\":\"第七章-法律责任\",\"children\":[]},{\"level\":2,\"title\":\"第八章 附则\",\"slug\":\"第八章-附则\",\"children\":[]}],\"readingTime\":{\"minutes\":51.35,\"words\":15405},\"filePathRelative\":\"posts/P1/中华人民共和国水污染防治法.md\",\"localizedDate\":\"2018年1月1日\"}")
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}

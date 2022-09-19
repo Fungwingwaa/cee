@@ -1,0 +1,17 @@
+<template><div><div class="custom-container warning"><p class="custom-container-title">注意</p>
+<p>本文使用PDF预览窗口<Badge text="基于Chromium内核" type="tip" />，<strong>无法加载的请点击</strong>🔍<em><a href="/static/pdf/P8/GB/GB-29620-2013.pdf" target="_blank">查看全文<ExternalLinkIcon/></a></em>。</p>
+</div>
+<div class="custom-container note"><p class="custom-container-title">适用范围</p>
+<ul>
+<li>本标准规定了砖瓦工业生产过程的大气污染物排放限值、监测和监控要求，以及标准的实施与监督等相关规定。</li>
+<li>本标准适用于现有砖瓦工业企业或生产设施的大气污染物排放管理，以及砖瓦工业建设项目的环境影响评价、环境保护设施设计、竣工环境保护验收及其投产后的大气污染物排放管理。</li>
+<li>本标准适用于以粘土、页岩、煤矸石、粉煤灰为主要原料的砖瓦烧结制品生产过程和以砂石、粉煤灰、石灰及水泥为主要原料的砖瓦非烧结制品生产过程。本标准不适用于利用污泥、垃圾、其他工业尾矿等为原料的砖瓦生产过程。</li>
+<li>本标准适用于法律允许的污染物排放行为。新设立污染源的选址和特殊保护区域内现有污染源的管理，按照《中华人民共和国大气污染防治法》、《中华人民共和国环境影响评价法》等法律、法规和规章的相关规定执行。</li>
+</ul>
+</div>
+<PDF url="/static/pdf/P8/GB/GB-29620-2013.pdf" :zoom=90 height="1020px" />
+<hr>
+<div class="custom-container warning"><p class="custom-container-title">原文链接</p>
+<p><a href="https://www.mee.gov.cn/ywgz/fgbz/bz/bzwb/dqhjbh/dqgdwrywrwpfbz/201309/t20130917_260350.shtml" target="_blank" rel="noopener noreferrer">https://www.mee.gov.cn/ywgz/fgbz/bz/bzwb/dqhjbh/dqgdwrywrwpfbz/201309/t20130917_260350.shtml<ExternalLinkIcon/></a></p>
+</div>
+</div></template>

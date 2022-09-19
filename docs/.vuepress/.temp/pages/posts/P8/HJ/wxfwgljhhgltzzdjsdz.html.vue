@@ -1,0 +1,16 @@
+<template><div><div class="custom-container warning"><p class="custom-container-title">注意</p>
+<p>本文使用PDF预览窗口<Badge text="基于Chromium内核" type="tip" />，<strong>无法加载的请点击</strong>🔍<em><a href="/static/pdf/P8/HJ/HJ-1259-2022.pdf" target="_blank">查看全文<ExternalLinkIcon/></a></em>。</p>
+</div>
+<div class="custom-container note"><p class="custom-container-title">适用范围</p>
+<ul>
+<li>本标准规定了产生危险废物的单位制定危险废物管理计划和管理台账、申报危险废物有关资料的总体要求，危险废物管理计划制定要求，危险废物管理台账制定要求和危险废物申报要求。</li>
+<li>本标准适用于指导产生危险废物的单位制定危险废物管理计划和管理台账，并通过国家危险废物信息管理系统（含省级自建系统，下同）向所在地生态环境主管部门申报危险废物的种类、产生量、流向、贮存、利用、处置等有关资料。</li>
+<li>小微企业危险废物收集单位可参照本标准，提供危险废物管理计划和管理台账制定、危险废物申报等服务。</li>
+</ul>
+</div>
+<PDF url="/static/pdf/P8/HJ/HJ-1259-2022.pdf" :zoom=60 height="680px" />
+<hr>
+<div class="custom-container warning"><p class="custom-container-title">原文链接</p>
+<p><a href="https://www.mee.gov.cn/ywgz/fgbz/bz/bzwb/gthw/qtxgbz/202206/t20220630_987178.shtml" target="_blank" rel="noopener noreferrer">https://www.mee.gov.cn/ywgz/fgbz/bz/bzwb/gthw/qtxgbz/202206/t20220630_987178.shtml<ExternalLinkIcon/></a></p>
+</div>
+</div></template>
